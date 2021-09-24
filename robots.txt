@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://noisetierg.github.io/noisetierg.github.io/sitemap.xml

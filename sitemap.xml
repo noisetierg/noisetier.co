@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://noisetierg.github.io/noisetierg.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://noisetierg.github.io/noisetierg.github.io/</loc>
+</url>
+<url>
+<loc>https://noisetierg.github.io/noisetierg.github.io/lora.html</loc>
+<lastmod>2021-09-24T23:10:56+01:00</lastmod>
+<image:image>
+<image:loc>https://noisetierg.github.io/noisetierg.github.io/media\posts\2/L1002696.JPEG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://noisetierg.github.io/noisetierg.github.io/lorem-ipsum.html</loc>
+<lastmod>2021-09-24T23:09:22+01:00</lastmod>
+<image:image>
+<image:loc>https://noisetierg.github.io/noisetierg.github.io/media\posts\1/L1002612.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
