@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>noisetier</title>
-    <link href="https://noisetierg.github.io/noisetierg.github.io/feed.xml" rel="self" />
-    <link href="https://noisetierg.github.io/noisetierg.github.io" />
+    <link href="https://noisetierg.github.io/feed.xml" rel="self" />
+    <link href="https://noisetierg.github.io" />
     <updated>2021-09-24T23:10:56+01:00</updated>
     <author>
         <name>noisetier</name>
     </author>
-    <id>https://noisetierg.github.io/noisetierg.github.io</id>
+    <id>https://noisetierg.github.io</id>
 
     <entry>
         <title>Lora!</title>
         <author>
             <name>noisetier</name>
         </author>
-        <link href="https://noisetierg.github.io/noisetierg.github.io/lora.html"/>
-        <id>https://noisetierg.github.io/noisetierg.github.io/lora.html</id>
+        <link href="https://noisetierg.github.io/lora.html"/>
+        <id>https://noisetierg.github.io/lora.html</id>
 
         <updated>2021-09-24T23:10:56+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://noisetierg.github.io/noisetierg.github.io/media/posts/2/L1002696.JPEG" alt="" />
+                        <img src="https://noisetierg.github.io/media/posts/2/L1002696.JPEG" alt="" />
                     Lora! Lora!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://noisetierg.github.io/noisetierg.github.io/media/posts/2/L1002696.JPEG" alt="" />
+                    <img src="https://noisetierg.github.io/media/posts/2/L1002696.JPEG" alt="" />
                 <p>Lora! Lora!</p>
             ]]>
         </content>
@@ -36,19 +36,19 @@
         <author>
             <name>noisetier</name>
         </author>
-        <link href="https://noisetierg.github.io/noisetierg.github.io/lorem-ipsum.html"/>
-        <id>https://noisetierg.github.io/noisetierg.github.io/lorem-ipsum.html</id>
+        <link href="https://noisetierg.github.io/lorem-ipsum.html"/>
+        <id>https://noisetierg.github.io/lorem-ipsum.html</id>
 
         <updated>2021-09-24T23:09:22+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://noisetierg.github.io/noisetierg.github.io/media/posts/1/L1002612.jpg" alt="" />
+                        <img src="https://noisetierg.github.io/media/posts/1/L1002612.jpg" alt="" />
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultrices mattis iaculis.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://noisetierg.github.io/noisetierg.github.io/media/posts/1/L1002612.jpg" alt="" />
+                    <img src="https://noisetierg.github.io/media/posts/1/L1002612.jpg" alt="" />
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultrices mattis iaculis. Fusce ac libero vitae risus hendrerit pulvinar nec at leo. Nunc aliquet purus in magna convallis, eget tempor enim euismod. Nulla facilisi. Sed dignissim vestibulum neque vel elementum. Donec pulvinar, felis nec sollicitudin efficitur, lacus diam ultricies purus, id cursus sapien nulla sit amet neque. Suspendisse potenti. Fusce ac est dictum, facilisis dolor ac, porttitor nisl. Donec ut turpis pulvinar, ullamcorper felis a, ultrices est. Ut velit sapien, pretium non metus at, dapibus condimentum nisl. Duis blandit faucibus tempor. Etiam pretium sapien eget arcu mollis, et commodo ipsum tristique. Maecenas sit amet justo quam.</p>
 <p>Mauris tempus arcu vel risus fringilla iaculis. Morbi mollis, est ut porttitor viverra, ex nisi vulputate quam, id pretium sapien arcu non elit. Aliquam erat volutpat. Maecenas congue urna ut sem consequat rhoncus. Curabitur iaculis velit in maximus maximus. Maecenas dui quam, cursus ac orci facilisis, hendrerit semper odio. Curabitur pretium euismod ornare. Fusce augue neque, consectetur quis felis eu, varius euismod augue. Vivamus sagittis ipsum ligula, in sodales felis tincidunt a. Nunc diam nunc, tempus sit amet sollicitudin vel, efficitur sit amet erat. Proin id tortor libero. Morbi quis libero quis purus tincidunt egestas. Duis imperdiet lorem metus, quis tempus diam luctus ut. Maecenas non malesuada enim, ac mattis libero.</p>
 <p>Proin id interdum lacus. Maecenas mauris dolor, posuere et tempus eu, vestibulum vitae risus. Donec porttitor orci et felis fringilla varius. Vestibulum vel neque velit. Donec luctus dui a erat maximus euismod. Donec mauris lectus, faucibus ac justo a, rhoncus aliquet eros. Etiam enim lorem, ullamcorper non purus id, malesuada tincidunt ligula. Duis ac leo mauris. In et sodales quam, ac scelerisque elit. Maecenas quis est maximus, accumsan nunc in, tempus nunc. Nam rutrum, nibh sed tristique luctus, elit lacus lobortis augue, vitae lobortis ex sem et felis. Aenean egestas risus tortor, placerat iaculis nibh sodales scelerisque.</p>
