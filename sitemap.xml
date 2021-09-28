@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://noisetierg.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://noisetier.co/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://noisetierg.github.io/</loc>
+<loc>https://noisetier.co/</loc>
 </url>
 <url>
-<loc>https://noisetierg.github.io/brighton/</loc>
+<loc>https://noisetier.co/brighton/</loc>
 <lastmod>2021-09-27T22:52:24+01:00</lastmod>
 <image:image>
-<image:loc>https://noisetierg.github.io/media\posts\3/L1002773-2.jpg</image:loc>
+<image:loc>https://noisetier.co/media\posts\3/L1002773-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://noisetierg.github.io/media\posts\3/L1002782.jpg</image:loc>
+<image:loc>https://noisetier.co/media\posts\3/L1002782.jpg</image:loc>
 <image:title><![CDATA[Leica M9. Voigt 40/1.4. ]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://noisetierg.github.io/media\posts\3/gallery/L1002778-thumbnail.jpg</image:loc>
+<image:loc>https://noisetier.co/media\posts\3/gallery/L1002778-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://noisetierg.github.io/media\posts\3/gallery/L1002781-thumbnail.jpg</image:loc>
+<image:loc>https://noisetier.co/media\posts\3/gallery/L1002781-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://noisetierg.github.io/media\posts\3/gallery/L1002772-thumbnail.jpg</image:loc>
+<image:loc>https://noisetier.co/media\posts\3/gallery/L1002772-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://noisetierg.github.io/media\posts\3/gallery/L1002775-thumbnail.jpg</image:loc>
+<image:loc>https://noisetier.co/media\posts\3/gallery/L1002775-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://noisetierg.github.io/media\posts\3/L1002777.jpg</image:loc>
+<image:loc>https://noisetier.co/media\posts\3/L1002777.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://noisetierg.github.io/bu-chang-xing-shi-ti-shuo-xiang-guo-wo-kuai-ling/</loc>
+<loc>https://noisetier.co/bu-chang-xing-shi-ti-shuo-xiang-guo-wo-kuai-ling/</loc>
 <lastmod>2021-09-28T18:18:32+01:00</lastmod>
 <image:image>
-<image:loc>https://noisetierg.github.io/media\posts\4/IMG_3203.JPEG</image:loc>
+<image:loc>https://noisetier.co/media\posts\4/IMG_3203.JPEG</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://noisetierg.github.io/lora/</loc>
+<loc>https://noisetier.co/lora/</loc>
 <lastmod>2021-09-27T22:55:06+01:00</lastmod>
 <image:image>
-<image:loc>https://noisetierg.github.io/media\posts\2/IMG_7819.JPEG</image:loc>
+<image:loc>https://noisetier.co/media\posts\2/IMG_7819.JPEG</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://noisetierg.github.io/lorem-ipsum/</loc>
+<loc>https://noisetier.co/lorem-ipsum/</loc>
 <lastmod>2021-09-26T17:20:59+01:00</lastmod>
 <image:image>
-<image:loc>https://noisetierg.github.io/media\posts\1/L1002612.jpg</image:loc>
+<image:loc>https://noisetier.co/media\posts\1/L1002612.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://noisetierg.github.io/media\posts\1/gallery/2c780309b366ea8ae67483609459d4eae0c7cb8e-thumbnail.jpg</image:loc>
+<image:loc>https://noisetier.co/media\posts\1/gallery/2c780309b366ea8ae67483609459d4eae0c7cb8e-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Background 1]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://noisetierg.github.io/media\posts\1/gallery/3b69f372128a69afe1a802422a77d759270efdfe-thumbnail.jpg</image:loc>
+<image:loc>https://noisetier.co/media\posts\1/gallery/3b69f372128a69afe1a802422a77d759270efdfe-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Background 2]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://noisetierg.github.io/media\posts\1/gallery/80d3338d7f5d31dd2fba2ef86adf404762c8c7e4-thumbnail.jpg</image:loc>
+<image:loc>https://noisetier.co/media\posts\1/gallery/80d3338d7f5d31dd2fba2ef86adf404762c8c7e4-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Background 3]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://noisetierg.github.io/media\posts\1/j4fva95dc3q51.jpg</image:loc>
+<image:loc>https://noisetier.co/media\posts\1/j4fva95dc3q51.jpg</image:loc>
 <image:title><![CDATA[Description X]]></image:title>
 </image:image>
 </url>
