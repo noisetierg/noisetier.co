@@ -3,7 +3,7 @@
     <title>noisetier</title>
     <link href="https://noisetier.co/feed.xml" rel="self" />
     <link href="https://noisetier.co" />
-    <updated>2022-02-06T14:01:56+00:00</updated>
+    <updated>2022-02-06T19:29:21+00:00</updated>
     <author>
         <name>noisetier</name>
     </author>
@@ -167,7 +167,7 @@ num = int(<span class="hljs-keyword">input</span>(<span class="hljs-string">"Ent
         <link href="https://noisetier.co/lorem-ipsum/"/>
         <id>https://noisetier.co/lorem-ipsum/</id>
 
-        <updated>2022-02-04T22:28:52+00:00</updated>
+        <updated>2022-02-06T19:29:21+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://noisetier.co/media/posts/1/L1002612.jpg" alt="" />
