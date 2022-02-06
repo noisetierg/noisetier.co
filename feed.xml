@@ -3,39 +3,12 @@
     <title>noisetier</title>
     <link href="https://noisetier.co/feed.xml" rel="self" />
     <link href="https://noisetier.co" />
-    <updated>2022-02-05T18:20:09+00:00</updated>
+    <updated>2022-02-05T16:59:41+00:00</updated>
     <author>
         <name>noisetier</name>
     </author>
     <id>https://noisetier.co</id>
 
-    <entry>
-        <title>Contact</title>
-        <author>
-            <name>noisetier</name>
-        </author>
-        <link href="https://noisetier.co/contact/"/>
-        <id>https://noisetier.co/contact/</id>
-
-        <updated>2022-02-05T18:20:09+00:00</updated>
-            <summary>
-                <![CDATA[
-                    Let's get in touch using the form below 📩 Alternatively you can&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h3 class="align-center">Let's get in touch using the form below 📩<br>Alternatively you can find me on <a href="https://instagr.am/the.noisetier.co">Instagram</a>. <!-- form.123formbuilder.com script begins here -->
-<script type="text/javascript" defer="defer" src="https://form.123formbuilder.com/embed/6088458.js" data-role="form" data-default-width="650px"></script>
-<!-- form.123formbuilder.com script ends here --></h3>
-<p>
-<script type="text/javascript">
-document.getElementsByClassName('post__title')[0].style.textAlign = "center";
-</script>
-</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>決府了養文四</title>
         <author>

@@ -5,25 +5,11 @@
     "home_page_url": "https://noisetier.co",
     "feed_url": "https://noisetier.co/feed.json",
     "user_comment": "",
-    "icon": "https://noisetier.co/media/website/Untitled-x-2.png",
+    "icon": "https://noisetier.co/media/website/Untitled-x.png",
     "author": {
         "name": "noisetier"
     },
     "items": [
-        {
-            "id": "https://noisetier.co/contact/",
-            "url": "https://noisetier.co/contact/",
-            "title": "Contact",
-            "summary": "Let's get in touch using the form below 📩 Alternatively you can&hellip;",
-            "content_html": "<h3 class=\"align-center\">Let's get in touch using the form below 📩<br>Alternatively you can find me on <a href=\"https://instagr.am/the.noisetier.co\">Instagram</a>. <!-- form.123formbuilder.com script begins here -->\n<script type=\"text/javascript\" defer=\"defer\" src=\"https://form.123formbuilder.com/embed/6088458.js\" data-role=\"form\" data-default-width=\"650px\"></script>\n<!-- form.123formbuilder.com script ends here --></h3>\n<p>\n<script type=\"text/javascript\">\ndocument.getElementsByClassName('post__title')[0].style.textAlign = \"center\";\n</script>\n</p>",
-            "author": {
-                "name": "noisetier"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-02-05T17:59:05+00:00",
-            "date_modified": "2022-02-05T18:20:09+00:00"
-        },
         {
             "id": "https://noisetier.co/jue-fu-liao-yang-wen-si/",
             "url": "https://noisetier.co/jue-fu-liao-yang-wen-si/",
