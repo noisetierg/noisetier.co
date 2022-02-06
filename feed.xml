@@ -3,7 +3,7 @@
     <title>noisetier</title>
     <link href="https://noisetier.co/feed.xml" rel="self" />
     <link href="https://noisetier.co" />
-    <updated>2022-02-06T01:46:45+00:00</updated>
+    <updated>2022-02-06T02:17:03+00:00</updated>
     <author>
         <name>noisetier</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://noisetier.co/jue-fu-liao-yang-wen-si/"/>
         <id>https://noisetier.co/jue-fu-liao-yang-wen-si/</id>
 
-        <updated>2022-02-06T01:43:30+00:00</updated>
+        <updated>2022-02-06T01:56:34+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://noisetier.co/media/posts/7/Blobs.svg" alt="" />
@@ -88,7 +88,7 @@ var idcomments_post_url;
             <category term="Photography"/>
             <category term="Brighton"/>
 
-        <updated>2022-02-06T01:46:45+00:00</updated>
+        <updated>2022-02-06T02:17:03+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://noisetier.co/media/posts/3/L1002773-2.jpg" alt="" />
@@ -165,15 +165,6 @@ num = int(<span class="hljs-keyword">input</span>(<span class="hljs-string">"Ent
 <span class="hljs-keyword">else</span>: 
    <span class="hljs-keyword">print</span>(<span class="hljs-string">"{0} is Odd"</span>.format(num))</code></pre>
 <p>In 1997, the town of Brighton and its neighbouring town Hove were joined to form the unitary authority of Brighton and Hove, which was granted city status by Queen Elizabeth II as part of the millennium celebrations in 2000.[38]</p>
-<p>
-<script>
-var idcomments_acct = '740d7ac018d0312f3b4843d7f0fd6155';
-var idcomments_post_id;
-var idcomments_post_url;
-</script>
-<span id="IDCommentsPostTitle" style="display: none;"></span>
-<script type="text/javascript" src="https://www.intensedebate.com/js/genericCommentWrapperV2.js"></script>
-</p>
             ]]>
         </content>
     </entry>
